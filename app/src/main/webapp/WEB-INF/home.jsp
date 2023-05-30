@@ -6,7 +6,8 @@
         <title>Home</title>
     </head>
     <body>
-        <h1>Olá Spring!!!</h1>
+        <h1>Produtos</h1>
+        <a href="/produto/list"><h2>Ver lista de produtos</h2</a>
     </body>
 </html>
 
